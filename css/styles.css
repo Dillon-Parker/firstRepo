@@ -1,0 +1,13 @@
+.n{
+    color: teal;
+    text-align: center;
+    font-family: fantasy;
+}
+#myP{
+    text-align: center;
+}
+#myIMG{
+    width: 350px;
+    margin: auto;
+    display: block;
+}
